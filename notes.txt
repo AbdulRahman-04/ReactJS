@@ -1,0 +1,128 @@
+what is react?
+
+-> react is js library for user building interfaces, primarily maintained by meta. and a community of devolopers.
+it allows devs to build dynamic web apps efficiently.
+
+
+
+why was REACT CREATED?
+
+-> React was created in 2011 by jordan walke, a software engineer at facebook. the primary goal was to address issues 
+with performance and complexity in facebook web apps.
+
+problems meta faced: the increasing complexity of facebook's UI LED to performance issues with traditional js and 
+jquery solutions.
+
+solution: React introduced a novel approach called the virtual DOM which improved performance and allowed devs to
+think of their UI's as a tree of reusable components.
+
+React was open sourced in 2013 and has since become one of the most popular libraries for frontend devolopment.
+
+
+CORE CONCEPT OF REACT:
+
+1) Component based architecture: 
+   - React apps are built using components : small, reusable pieces of UI.
+   - Components can be functional or class-based
+
+2) Declarative programming: 
+   - instead of manually manipulating the DOM, devs define what UI should look like and React takes care of updating
+     the DOM.
+
+3) VIRTUAL DOM: 
+   - React uses a lightweigth, in-memory representation of the DOM(virtual DOM).
+
+4) JSX:
+   - React uses a syntax extensiojn called JSX, which allows HTML-like code to coexist with JS logic.
+
+5) Undirectional Data flow: 
+   - React data flow is one-way, making it easier to understand and debug applications.
+
+6) State and props: 
+   - Represents the dynamic data of a compomnent.
+   - Props: Allow components to communicate with each other by passing data.
+
+
+
+WHY REACT IS SO POPULAR? 
+
+ - performance
+ - Flexibility
+ - Rich ecosystem
+ - Community and support
+ - reusablity
+ - used for making SPA's(single page apps), mobile apps(react native)
+ - Backed by meta
+ - Cross platform devolopment
+ - SEO friendly
+
+
+ADVANTAGES OF REACT: 
+
+ - Learning curve: react is relatively easy to learn for devolopers familiar with javascript.
+ - Rich Tooling: Devolopers tools like react devTools simplify debugging.
+ - Scalability: Suitable for both small and large scale apps
+ - Backward compatibility: Updates rarely break Backward compatibility, making upgrades smoother.
+
+
+
+ React vs other Frameworks
+
+ Feature                React               Angular               vue.js
+
+ Type                   Library             Framework            Framework
+ Learning Curve         Moderate             Steep               Framework
+ DOM management         Virtual DOM         Real Dom             Virtual DOM
+ Data binding            One-way             two way              two way 
+ ecosystem               Huge                Large                Moderate
+ use cases              Flexible           Enterprise apps        Small-to-medium Apps
+
+
+
+Task1: 
+get me differences btw libraries and framework 
+
+library: 
+A JavaScript library is a collection of classes, methods, and pre-written functions that developers can use in their web development projects.
+Libraries make code reusable and simplify the development process.
+
+framework: 
+JavaScript frameworks are essential tools for creating web applications. 
+They provide built-in components that help in developing robust and interactive web applications.
+
+task2: 
+what are react versions ? and why should we choose react?
+
+current: 19.0.0
+
+One of the main benefits of using React JS is its potential to reuse components.
+It saves time for developers as they don't have to write various codes for the same features. 
+Furthermore, if any changes are made in any particular part, it will not affect other parts of the application.
+
+
+task3: 
+react vs nextjs
+
+ 
+
+- A framework provides a structured foundation for building an application, while a library is a collection of reusable code components that developers can use into their applications to perform specific tasks essentially, a framework tells you "how" to build something, while a library provides tools to help you build it. 
+
+- Control flow:
+In a framework, the framework controls the application flow, calling your code when needed, whereas in a library, you explicitly call the library functions when you want to use them. 
+
+- Scope:
+Frameworks tend to be larger and more comprehensive, providing a structure for the entire application, while libraries are usually smaller and focused on specific functionalities. 
+
+- Flexibility:
+Libraries offer more flexibility as you can choose how and when to use their functions, while frameworks are more opinionated and require you to follow their predefined structure. 
+
+2.
+
+ Features like concurrent rendering, server-side rendering (SSR), and static site generation (SSG) improve performance for large-scale apps.
+
+React is an excellent choice for both small projects and large enterprise applications because of its flexibility, ease of use, and scalability.
+
+React 0, React 15, 16, 17, 18, 19
+
+3. 
+
