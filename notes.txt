@@ -124,5 +124,13 @@ React is an excellent choice for both small projects and large enterprise applic
 
 React 0, React 15, 16, 17, 18, 19
 
-3. 
+
+
+CONVERTING HTML TO REACT: 
+
+-> Remove all the comments from index.html.
+-> change class to className.
+-> check image tag and br tag.
+-> 
+
 
